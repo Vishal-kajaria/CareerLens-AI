@@ -1,0 +1,7 @@
+gradio
+pypdf
+python-dotenv
+openai
+langchain
+crewai
+supabase
